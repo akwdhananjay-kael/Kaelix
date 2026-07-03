@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Yuna Discord Bot — Component V2
+# 🤖 Kaelix Discord Bot — Component V2
 
 
 *A premium multipurpose Discord bot featuring high-end Antinuke, Automod, and next-gen UI.*
@@ -15,7 +15,7 @@
 
 ## ✨ What is Yuna?
 
-**Yuna** is a state-of-the-art multipurpose Discord bot designed for performance and security. Powered by the **Component V2** architecture, Yuna delivers a premium user experience with sleek layouts and advanced functionality.
+**Kaelix** is a state-of-the-art multipurpose Discord bot designed for performance and security. Powered by the **Component V2** architecture, Yuna delivers a premium user experience with sleek layouts and advanced functionality.
 
 **Current Stats:**
 - 🛠️ **99 Cogs** loaded with specialized logic.
