@@ -1,9 +1,3 @@
-"""
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
-    + for any queries reach out Community or DM me.
-"""
 import os 
 import sys 
 import asyncio 
@@ -31,7 +25,7 @@ import aiohttp
 import discord 
 from discord .ext import commands 
 from core import Context 
-from core .Yuna import Yuna 
+from core .Kaelix import Kaelix
 from utils .Tools import *
 from utils .config import *
 from utils .logger import logger
@@ -47,13 +41,12 @@ async def load_reactionrole ():
 
 
 def print_startup_banner ():
-    """Print the AeroX startup banner"""
+    """Print the Karlix startup banner"""
     banner = [
         "AeroX Multipurpose Bot",
         "──────────────────────────────────────",
         "System: Operational",
-        "Developer: itsfizys (AeroX Development)",
-        "Community: https://discord.gg/aerox",
+        "Developer: Kael "
         "──────────────────────────────────────"
     ]
     for line in banner:
