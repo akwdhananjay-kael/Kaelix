@@ -1,9 +1,8 @@
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
-    + for any queries reach out Community or DM me.
-"""
+: ! Kael !
+    + Discord: kael990199 
+    
+    """
 from __future__ import annotations
 from discord .ext import commands
 import discord
@@ -161,12 +160,11 @@ class Yuna (commands .AutoShardedBot ):
 
 def setup_bot ():
     intents =discord .Intents .all ()
-    bot =Yuna (intents =intents )
+    bot =Kaelix (intents =intents )
     return bot
 
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
-    + for any queries reach out Community or DM me.
-"""
+: ! Kael !
+    + Discord: kael990199 
+    
+    """
